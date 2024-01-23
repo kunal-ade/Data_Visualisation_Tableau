@@ -1,3 +1,4 @@
-# Data_Vsulaisation_Tableau
-Original data was in sql file , so i exported all the tables as different csv files which can be used in Tableau Public
-Created Dashboard which visualise store's revenue and sales trend along with store's profit 
+# Data_Visualisation_Tableau
+The original data was in sql file, so I exported all the tables as different CSV files which can be used in Tableau Public.
+
+Created a Dashboard which visualises the store's revenue and sales trends along with the store's profit.
